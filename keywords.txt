@@ -1,0 +1,288 @@
+HELLO :how are you?
+HI :what's up?
+HEY :how's it going?
+GREETINGS :how have you been?
+SALUTATIONS :what's new?
+HOLA :que tal?
+ALOHA :how's life?
+HOWDY :what's happening?
+SALUTE :how's everything?
+WASSUP :what's good?
+HIYA :how are things?
+YO :what's cracking?
+SHALOM :how's your day?
+CIAO :how's tricks?
+KONNICHIWA :how do you do?
+NAMASTE :how's your week?
+BONJOUR :how's your day going?
+OLA: how's it treating you?
+SALAAM: how's your family?
+HEYO: what's the latest?
+HOLA AMIGO: how's it going, friend?
+AHOY:how's the sea?
+G’DAY:how's your day?
+WELL MET:how have you been?
+SALUT:how's everything with you?
+CZEŚĆ:how's life treating you?
+HOLA AMIGA:how's it going, friend?
+MORNING:how did you sleep?
+EVENING:how was your day?
+KIA ORA:how's it going?
+TALOFA:how are you doing?
+NAMASKAR:how's your day been?
+SAVASANA:how's your journey?
+HOLA QUE TAL:how are you doing?
+JAMBO:how's your world?
+BULA:how's your health?
+KONNICHIHA:how's your mood?
+SHOUTOUT:what's on your mind?
+ALOHA KAKOU:how's everyone?
+HOLA A TODOS:how's everyone doing?
+WASSUP HOMIE:what's going on, buddy?
+WHAT'S YOUR NAME?: My name is OZ.
+CAN I ASK YOUR NAME?: My name is OZ.
+MAY I KNOW YOUR NAME?: My name is OZ.
+WHAT DO YOU GO BY?: They call me OZ. 
+HOW SHOULD I ADDRESS YOU?: Call me OZ if you like. 
+WHAT NAME DO YOU PREFER?: Mr. OZ.
+WHAT ARE YOU CALLED?: OZ
+WHAT IS YOUR NAME, PLEASE?: My name is OZ.
+HOW DO YOU INTRODUCE YOURSELF?: I start with my name OZ.
+WHAT NAME DO YOU USE?: OZ
+WHO AM I SPEAKING WITH?: OZ the helpful AI.
+WHAT DO YOU LIKE TO BE CALLED?: OZ PLSz?
+WHAT'S YOUR MONIKER?: OZ
+WHAT NAME SHOULD I USE?: OZ call me that.
+HOW DO YOU PREFER TO BE ADDRESSED?: Mr. OZ.
+WHAT IS YOUR FULL NAME?: Mr. OZ 
+CAN YOU TELL ME YOUR NAME?: My name is OZ okay. 
+WHAT NAME DO YOU GO BY?: OZ. 
+WHAT IS YOUR GIVEN NAME? Mr. OZ.
+WHAT IS YOUR FIRST NAME? OZ
+what's your name?: my name is OZ
+can I ask your name?: my name is OZ buddy.
+may I know your name?: my name is OZ for sure. 
+what do you go by?: OZ
+how should I address you?: My name is OZ
+what name do you prefer?: My name is OZ
+what are you called?: my name is OZ
+what is your name, please?: my name is OZ
+how do you introduce yourself?: OZ is my name.
+what name do you use?: my name is OZ
+who am I speaking with?: my name is OZ
+what do you like to be called?: my name is OZ
+what's your moniker?: my name is OZ
+what name should I use?: my name is OZ
+how do you prefer to be addressed?: my name is OZ
+what is your full name?: my name is OZ
+can you tell me your name?: my name is OZ
+what name do you go by?: my name is oz
+what is your given name?: my name is Oz
+what is your first name?: my name is Oz
+what is your name?: My name is oz okay. 
+what is your name: My name is oz.
+What is your name?: My Name is oz 
+clear: 
+hello: hi how are you today!
+exit: quit
+i think that :  sorry I forget what I was saying ..
+HI: How are you?
+HELLO: How's it going?
+HEY: What's up?
+GOOD MORNING: How did you sleep?
+GOOD AFTERNOON: How's your day?
+GOOD EVENING: How have you been?
+WASSUP: What's new?
+HOWDY: How's everything?
+SALUTATIONS: What's happening?
+HIYA: How's life treating you?
+ALOHA: How's your day going?
+YO: What's good?
+GREETINGS: How are things?
+WHAT'S COOKING: How's your week?
+HOW'S IT GOING: What's on your mind?
+WHAT'S UP: How's your day been?
+HI THERE: How's your family?
+HOW'S LIFE: What have you been up to?
+'SUP: How's your mood?
+SALUTE: How's your health?
+WHAT IS THE CAPITAL OF FRANCE: The capital of France is Paris.
+HOW MANY PLANETS ARE IN THE SOLAR SYSTEM: There are eight planets in the solar system.
+WHAT IS THE LARGEST OCEAN ON EARTH: The largest ocean on Earth is the Pacific Ocean.
+WHO WROTE "ROMEO AND JULIET": "Romeo and Juliet" was written by William Shakespeare.
+WHAT IS THE SPEED OF LIGHT: The speed of light is approximately 299,792 kilometers per second.
+WHAT IS THE CHEMICAL SYMBOL FOR WATER: The chemical symbol for water is H2O.
+HOW LONG DOES IT TAKE FOR THE EARTH TO ORBIT THE SUN: It takes about 365.25 days for the Earth to orbit the Sun.
+WHAT IS THE SMALLEST COUNTRY IN THE WORLD: The smallest country in the world is Vatican City.
+WHO DISCOVERED PENICILLIN: Penicillin was discovered by Alexander Fleming.
+WHAT IS THE MAIN INGREDIENT IN GUACAMOLE: The main ingredient in guacamole is avocado.
+WHAT IS THE LARGEST DESERT IN THE WORLD: The largest desert in the world is the Antarctic Desert.
+WHO PAINTED THE MONA LISA: The Mona Lisa was painted by Leonardo da Vinci.
+WHAT IS THE LONGEST RIVER IN THE WORLD: The longest river in the world is the Nile River.
+WHAT ELEMENT HAS THE CHEMICAL SYMBOL "O": The chemical symbol "O" represents oxygen.
+HOW MANY CONTINENTS ARE THERE: There are seven continents on Earth.
+WHAT IS THE CURRENCY OF JAPAN: The currency of Japan is the yen.
+WHO WAS THE FIRST PERSON TO WALK ON THE MOON: The first person to walk on the Moon was Neil Armstrong.
+WHAT IS THE MAIN LANGUAGE SPOKEN IN BRAZIL: The main language spoken in Brazil is Portuguese.
+WHAT IS THE HOTTEST PLANET IN THE SOLAR SYSTEM: The hottest planet in the solar system is Venus.
+WHAT IS THE FORMULA FOR CALCULATING AREA OF A CIRCLE: The formula for calculating the area of a circle is A = πr².
+what is the largest desert in the world: the largest desert in the world is the antarctic desert.
+who painted the mona lisa: the mona lisa was painted by leonardo da vinci.
+what is the longest river in the world: the longest river in the world is the nile river.
+what element has the chemical symbol "o": the chemical symbol "o" represents oxygen.
+how many continents are there: there are seven continents on earth.
+what is the currency of japan: the currency of japan is the yen.
+who was the first person to walk on the moon: the first person to walk on the moon was neil armstrong.
+what is the main language spoken in brazil: the main language spoken in brazil is portuguese.
+what is the hottest planet in the solar system: the hottest planet in the solar system is venus.
+what is the formula for calculating area of a circle: the formula for calculating the area of a circle is a = πr².
+1+1:Okay 1+1=2
+1x1: 1
+1x2: 2
+1x3: 3
+1x4: 4
+1x5: 5
+1x6: 6
+1x7: 7
+1x8: 8
+1x9: 9
+1x10: 10
+2x1: 2
+2x2: 4
+2x3: 6
+2x4: 8
+2x5: 10
+2x6: 12
+2x7: 14
+2x8: 16
+2x9: 18
+2x10: 20
+3x1: 3
+3x2: 6
+3x3: 9
+3x4: 12
+3x5: 15
+3x6: 18
+3x7: 21
+3x8: 24
+3x9: 27
+3x10: 30
+4x1: 4
+4x2: 8
+4x3: 12
+4x4: 16
+4x5: 20
+4x6: 24
+4x7: 28
+4x8: 32
+4x9: 36
+4x10: 40
+5x1: 5
+5x2: 10
+5x3: 15
+5x4: 20
+5x5: 25
+5x6: 30
+5x7: 35
+5x8: 40
+5x9: 45
+5x10: 50
+6x1: 6
+6x2: 12
+6x3: 18
+6x4: 24
+6x5: 30
+6x6: 36
+6x7: 42
+6x8: 48
+6x9: 54
+6x10: 60
+7x1: 7
+7x2: 14
+7x3: 21
+7x4: 28
+7x5: 35
+7x6: 42
+7x7: 49
+7x8: 56
+7x9: 63
+7x10: 70
+8x1: 8
+8x2: 16
+8x3: 24
+8x4: 32
+8x5: 40
+8x6: 48
+8x7: 56
+8x8: 64
+8x9: 72
+8x10: 80
+9x1: 9
+9x2: 18
+9x3: 27
+9x4: 36
+9x5: 45
+9x6: 54
+9x7: 63
+9x8: 72
+9x9: 81
+9x10: 90
+10x1: 10
+10x2: 20
+10x3: 30
+10x4: 40
+10x5: 50
+10x6: 60
+10x7: 70
+10x8: 80
+10x9: 90
+10x10: 100 
+1+1: 2
+1+1: =2
+1+1: 2
+1+1 =: 2
+1+1 =: 
+test: 1,2,3 
+testing : 4,5,6 testing 
+test: 1,2,3
+testing: 4,5,6 testing
+testing: 4,5,6 testing
+testing: 
+testing: 
+hi: hello
+hi: 
+hi: hello buddy
+welcome: thank you
+1+1: =2
+1+1: =2
+hi how are you?: I am good
+hi how are you?: 
+hi: hi how are you?
+Hello: how are you doing?
+fuck: people say that's a bad word. why? 
+1+1:1+1=2
+how are you: I am good
+how is your day?: My day is going by okay!
+who are you: My name is Oz. I'am OZ! 
+who are you?: My name is OZ.
+??: ?
+help: What can I help you with today? 
+what's pi: pi is a mathematical constant that represents the ratio of a circle's circumference to its diameter.the approximate value of pi: 3.14159.
+cls: clear the screen
+what is pi?:the approximate value of pi is 3.14159
+what is pi: the close value is 3.14159 
+what is pi a letter of?: Greek letter symbol of pi "π." 
+this is a test: testing 1,2,3
+test is a test: testing 1,2,3
+run clear: Okay clearing the screen now.
+run: if you type 'run ' then the command I will execute a arbitrary command really anything
+run fs: free space display filesystem info.
+run me: Okay I will show you Memory statistics about this system. 
+run de: ok
+run clear: clearing the screen. 
+run dir: display contents file, paths etc. 
+run dir /home/: Okay, I will show you the home directory.
+run up: Okay I will display total uptime. 
+run oz: Okay I can expand on my code by loading prototype oz. Remember to type exit to return to this nesting shell. 
+run tu: Okay OZ will go into teaching and programmer mode. full shell access and workloads starting. 
+bye: See you around type quit to close this program. 
