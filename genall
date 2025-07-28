@@ -42,9 +42,11 @@ gcc pt.c -o pt -lm -lcurl
 echo make up.c 
 gcc up.c -o up
 echo make zx.c 
-gcc zx.c -lm -lcurl -lsqlite3
+gcc zx.c -o zx -lm -lcurl -lsqlite3
 echo make ox.c 
-gcc ox.c -lm -lcurl -lsqlite3
+gcc ox.c -o ox -lm -lcurl -lsqlite3
 echo make zv.c 
-gcc zv.c -lm -lcurl -lsqlite3
+gcc zv.c -o zv -lm -lcurl -lsqlite3
+echo make zr.c 
+gcc zr.c -o zr -lm -lcurl -lsqlite3 -std=c99 
 echo finished gcc build commands
