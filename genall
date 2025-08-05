@@ -48,5 +48,7 @@ gcc ox.c -o ox -lm -lcurl -lsqlite3
 echo make zv.c 
 gcc zv.c -o zv -lm -lcurl -lsqlite3
 echo make zr.c 
-gcc zr.c -o zr -lm -lcurl -lsqlite3 -std=c99 
+gcc zr.c -o zr -lm -lcurl -lsqlite3 -std=c99
+echo makeing randomx chat bot example / outline. 
+gcc randomx.c -o randomx -lm -lsqlite3 
 echo finished gcc build commands
